@@ -1,0 +1,12 @@
+Bella
+12
+Dog
+Pete
+Charlie
+4
+Cat
+John
+Moe
+6
+Ferret
+Carlos

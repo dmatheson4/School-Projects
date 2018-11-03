@@ -1,0 +1,19 @@
+[][][][][][] Pet Patient List [][][][][][]
+Pet 1
+Pet Name: Bella
+Pet Age: 12
+Pet Type: Dog
+Pet Owner: Pete
+
+Pet 2
+Pet Name: Charlie
+Pet Age: 4
+Pet Type: Cat
+Pet Owner: John
+
+Pet 3
+Pet Name: Moe
+Pet Age: 6
+Pet Type: Ferret
+Pet Owner: Carlos
+[][][][][][][][][][][][][][][][][][][][][]
