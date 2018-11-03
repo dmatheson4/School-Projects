@@ -1,0 +1,6 @@
+For my tests I used the glider cell example, fish, and plus in both the flat grid and torus grid formations.
+For the glider in the flat grid format, the 5 dots that are alive move down and right until it hits the wall and becomes a 4 cell square.
+For the glider in the torus grid format, the 5 dots that are alive move down and right then continue moving around the left side of the map.
+For the fish in the flat grid format, the live cells move towards the right wall, then when it collides it forms a structure that goes up to the top of the map, where it finally becomes a 4 cell square.
+For the fish in the torus grid format, the live cells move towards the right wall, then it continues on through the left wall in an infinite pattern.
+For the plus in the flat grid, the plus sign goes through many transformations and by generation 30 the plus forms a smaller plus in the center of the map with a missing cell in the middle. It does the same exact thing for the torus map, because it does not ever reach the wall.
